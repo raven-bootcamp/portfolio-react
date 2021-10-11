@@ -39,4 +39,4 @@ This will compile and build any required static files, and push it to a Git bran
 - [gh-pages](https://www.npmjs.com/package/gh-pages) - an NPM library that allows an application to be easily deployed to Github Pages
 
 ## Screenshot
-![image](public/screenshot.png)
+![image](screenshot.png)
