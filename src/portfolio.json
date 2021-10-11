@@ -1,0 +1,65 @@
+[{
+        "id": 1,
+        "name": "Password Generator",
+        "image": "https://raven-bootcamp.github.io/Portfolio/assets/password.png",
+        "github": "https://github.com/raven-bootcamp/week3-homework-pword-gen",
+        "deploy": "https://raven-bootcamp.github.io/week3-homework-pword-gen/",
+        "topics": "Set your requirements and generate a password using HTML, CSS, Javascript"
+    },
+    {
+        "id": 2,
+        "name": "Coding Quiz",
+        "image": "https://raven-bootcamp.github.io/Portfolio/assets/quiz.png",
+        "github": "https://github.com/raven-bootcamp/week4-homework-quiz",
+        "deploy": "https://raven-bootcamp.github.io/week4-homework-quiz/",
+        "topics": "Test your coding knowledge! Answer a series of questions and save your score. Uses HTML, CSS, Javascript"
+    },
+    {
+        "id": 3,
+        "name": "Weather Forecast Dashboard",
+        "image": "https://raven-bootcamp.github.io/Portfolio/assets/weather.png",
+        "github": "https://github.com/raven-bootcamp/week6-homework-weather",
+        "deploy": "https://raven-bootcamp.github.io/week6-homework-weather/",
+        "topics": "Search for a city to see its current and upcoming weather info.  Uses external APIs, Javascript, Moment JS "
+    },
+    {
+        "id": 4,
+        "name": "Chop n Change Recipe Search",
+        "image": "https://raven-bootcamp.github.io/Portfolio/assets/recipes.png",
+        "github": "https://github.com/raven-bootcamp/group3-recipe-search",
+        "deploy": "https://group3-recipe-search.herokuapp.com/",
+        "topics": "Group project: search for great recipes using external APIs, Javascript and Bulma CSS"
+    },
+    {
+        "id": 5,
+        "name": "Tech Blog Site",
+        "image": "https://raven-bootcamp.github.io/Portfolio/assets/techblog.png",
+        "github": "https://github.com/raven-bootcamp/tech-blog",
+        "deploy": "https://blooming-tundra-63075.herokuapp.com/",
+        "topics": "Log in and add, edit, remove blog posts. Comment on other people's posts. Uses MySQL database technology"
+    },
+    {
+        "id": 6,
+        "name": "Team Profile Generator",
+        "image": "https://raven-bootcamp.github.io/Portfolio/assets/teamprofile.png",
+        "github": "https://github.com/raven-bootcamp/team-profile-generator",
+        "deploy": "https://youtu.be/8sMK2sCnC_A",
+        "topics": "Using the command line, type in the details of your team, and generate a team website. See demo video for more information."
+    },
+    {
+        "id": 7,
+        "name": "eCommerce Back End",
+        "image": "https://raven-bootcamp.github.io/Portfolio/assets/ecommerce.png",
+        "github": "https://github.com/raven-bootcamp/ecommerce-backend",
+        "deploy": "https://www.youtube.com/watch?v=Kd9I7KtH4-E",
+        "topics": "Full back end system for an eCommerce website, including CRUD functionality.  See demo video for more information."
+    },
+    {
+        "id": 8,
+        "name": "Bee Strong Fitness Subscriptions",
+        "image": "https://raven-bootcamp.github.io/Portfolio/assets/beestrong.png",
+        "github": "https://github.com/raven-bootcamp/bee-strong",
+        "deploy": "https://bee-strong.herokuapp.com/",
+        "topics": "Group project: upload workouts as an instructor, and favourite videos as a student.  Technologies include Handlebars and Bcrypt."
+    }
+]
