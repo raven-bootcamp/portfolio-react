@@ -1,7 +1,5 @@
 # Portfolio built using React
 
-# Online/Offline Budget Tracker
-
 Link to the deployed application: https://raven-bootcamp.github.io/portfolio-react
 
 Link to the code repository: https://github.com/raven-bootcamp/portfolio-react
@@ -32,7 +30,7 @@ If making changes, edit any files necessary.  Once any development is complete, 
 ```
 npm run deploy
 ```
-This will compile and build any required static files, and save it to a branch specifically for use in Github Pages.  Changes are automatically pushed.  You can find the link to the deployed application at the top of this README file, or in your `package.json` file under the heading `homepage`.
+This will compile and build any required static files, and push it to a Git branch specifically for use in Github Pages.  Changes are automatically pushed.  You can find the link to the deployed application at the top of this README file, or in your `package.json` file under the heading `homepage`.
 
 ## Technologies Used
 - [Node.js](https://nodejs.org/en/)
